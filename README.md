@@ -1,5 +1,7 @@
-dQuery - jQuery for Dart
+This is officially ABANDONED!
 ======
+dQuery - jQuery for Dart
+------
 
 The aim of this project is to provide a jQuery like interface for [Dart](http://www.dartlang.org/)
 
